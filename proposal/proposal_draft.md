@@ -1,6 +1,12 @@
 ## Project
 "Draw a Perfect Circle" Game demo on the DE1-SOC Board.
 
+
+### Goal
+- Hard enough, but not too difficult. 
+- Looks coool and attractive.
+- Equal workload division.
+
 ### Input: 
 PS/2 mouse; board button for clear/restart.
 
